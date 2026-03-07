@@ -1,0 +1,14 @@
+{
+  "name": "skill-template",
+  "version": "1.0.0",
+  "author": "your-name",
+  "description": "Skill template for creating new agent skills",
+  "tags": ["template", "example"],
+  "language": "python",
+  "dependencies": [
+    "requests>=2.28.0"
+  ],
+  "entryPoint": "src/main.py",
+  "created": "2024-03-07T00:00:00Z",
+  "updated": "2024-03-07T00:00:00Z"
+}
