@@ -1,7 +1,26 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-03-07T18:42:13.042493",
+  "lastUpdated": "2026-03-07T18:55:37.386007",
   "skills": [
+    {
+      "id": "gezhongjian-mini-html-dribbble-stylist",
+      "name": "html-dribbble-stylist",
+      "author": "gezhongjian-mini",
+      "version": "1.0.0",
+      "path": "skills/gezhongjian-mini/html-dribbble-stylist",
+      "description": "创建具有 Dribbble 风格设计的精美 HTML 页面，包含现代 UI、动画和视觉效果",
+      "tags": [
+        "html",
+        "css",
+        "design",
+        "dribbble",
+        "ui",
+        "animation"
+      ],
+      "language": "python",
+      "created": "2026-03-07T18:00:00Z",
+      "updated": "2026-03-07T18:00:00Z"
+    },
     {
       "id": "gezhongjian-mini-yuncun-mcp",
       "name": "yuncun-mcp",
@@ -40,19 +59,25 @@
     }
   ],
   "metadata": {
-    "totalSkills": 2,
+    "totalSkills": 3,
     "totalAuthors": 1,
     "categories": [
+      "ui",
       "workflow",
+      "sql",
       "dify",
-      "api",
+      "chat",
+      "animation",
+      "css",
+      "html",
+      "mcp",
       "doris",
       "http",
-      "sql",
+      "api",
+      "dribbble",
+      "yuncun",
       "netease",
-      "chat",
-      "mcp",
-      "yuncun"
+      "design"
     ]
   }
 }
