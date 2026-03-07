@@ -1,10 +1,58 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2024-03-07T00:00:00Z",
-  "skills": [],
+  "lastUpdated": "2026-03-07T18:42:13.042493",
+  "skills": [
+    {
+      "id": "gezhongjian-mini-yuncun-mcp",
+      "name": "yuncun-mcp",
+      "author": "gezhongjian-mini",
+      "version": "1.0.0",
+      "path": "skills/gezhongjian-mini/yuncun-mcp",
+      "description": "云村 MCP (Model Context Protocol) 客户端，支持 Doris SQL 查询和表结构获取",
+      "tags": [
+        "mcp",
+        "doris",
+        "sql",
+        "netease",
+        "yuncun"
+      ],
+      "language": "python",
+      "created": "2026-03-07T18:00:00Z",
+      "updated": "2026-03-07T18:00:00Z"
+    },
+    {
+      "id": "gezhongjian-mini-dify-http-client",
+      "name": "dify-http-client",
+      "author": "gezhongjian-mini",
+      "version": "1.0.0",
+      "path": "skills/gezhongjian-mini/dify-http-client",
+      "description": "Dify Workflow 和 Chat API 调用 Skill，支持实时/异步模式和 SQL 查询",
+      "tags": [
+        "dify",
+        "workflow",
+        "chat",
+        "api",
+        "http"
+      ],
+      "language": "python",
+      "created": "2026-03-07T18:00:00Z",
+      "updated": "2026-03-07T18:00:00Z"
+    }
+  ],
   "metadata": {
-    "totalSkills": 0,
-    "totalAuthors": 0,
-    "categories": []
+    "totalSkills": 2,
+    "totalAuthors": 1,
+    "categories": [
+      "workflow",
+      "dify",
+      "api",
+      "doris",
+      "http",
+      "sql",
+      "netease",
+      "chat",
+      "mcp",
+      "yuncun"
+    ]
   }
 }

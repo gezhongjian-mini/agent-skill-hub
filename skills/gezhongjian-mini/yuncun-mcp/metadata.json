@@ -1,0 +1,12 @@
+{
+  "name": "yuncun-mcp",
+  "version": "1.0.0",
+  "author": "gezhongjian-mini",
+  "description": "云村 MCP (Model Context Protocol) 客户端，支持 Doris SQL 查询和表结构获取",
+  "tags": ["mcp", "doris", "sql", "netease", "yuncun"],
+  "language": "python",
+  "dependencies": [],
+  "entryPoint": "src/skill.py",
+  "created": "2026-03-07T18:00:00Z",
+  "updated": "2026-03-07T18:00:00Z"
+}
