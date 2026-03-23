@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-03-07T18:55:37.386007",
+  "lastUpdated": "2026-03-23T22:15:00Z",
   "skills": [
     {
       "id": "gezhongjian-mini-html-dribbble-stylist",
@@ -56,10 +56,28 @@
       "language": "python",
       "created": "2026-03-07T18:00:00Z",
       "updated": "2026-03-07T18:00:00Z"
+    },
+    {
+      "id": "gezhongjian-mini-openclaw-monitor",
+      "name": "openclaw-monitor",
+      "author": "gezhongjian-mini",
+      "version": "1.0.0",
+      "path": "skills/gezhongjian-mini/openclaw-monitor",
+      "description": "OpenClaw 监控看板 Skill - 实时展示插件状态、Skills启用情况、定时任务、会话信息和系统日志",
+      "tags": [
+        "openclaw",
+        "monitor",
+        "dashboard",
+        "admin",
+        "system"
+      ],
+      "language": "python",
+      "created": "2026-03-23T22:15:00Z",
+      "updated": "2026-03-23T22:15:00Z"
     }
   ],
   "metadata": {
-    "totalSkills": 3,
+    "totalSkills": 4,
     "totalAuthors": 1,
     "categories": [
       "ui",
@@ -77,7 +95,12 @@
       "dribbble",
       "yuncun",
       "netease",
-      "design"
+      "design",
+      "openclaw",
+      "monitor",
+      "dashboard",
+      "admin",
+      "system"
     ]
   }
 }

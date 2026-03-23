@@ -1,0 +1,12 @@
+{
+  "name": "openclaw-monitor",
+  "version": "1.0.0",
+  "author": "gezhongjian-mini",
+  "description": "OpenClaw 监控看板 Skill - 实时展示插件状态、Skills启用情况、定时任务、会话信息和系统日志",
+  "tags": ["openclaw", "monitor", "dashboard", "admin", "system"],
+  "language": "python",
+  "dependencies": [],
+  "entryPoint": "src/main.py",
+  "created": "2026-03-23T00:00:00Z",
+  "updated": "2026-03-23T00:00:00Z"
+}
